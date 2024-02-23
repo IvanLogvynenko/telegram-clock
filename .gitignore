@@ -2,3 +2,5 @@ credentials*
 venv/
 *pycache*/
 *session*
+img/
+.idea/
